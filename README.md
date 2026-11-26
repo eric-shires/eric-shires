@@ -1,10 +1,8 @@
 <div align="center">
 
 
-# Derek Prescott
+# Eric Shires
 
-
-### Senior DevOps Engineer · Cloud & Site Reliability
 
 
 *I keep production fast, observable, and boring — in the best way.*
